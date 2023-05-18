@@ -4,12 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="67f31e3b-6f3d-45c7-a00e-2eead3d30d91" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Doit/PrefixSum1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Doit/PrefixSum2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Doit/Remember.java" afterDir="false" />
+    <list default="true" id="67f31e3b-6f3d-45c7-a00e-2eead3d30d91" name="Changes" comment="s">
+      <change afterPath="$PROJECT_DIR$/src/Doit/P11286.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Doit/P1253.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Doit/P17298.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Doit/P1874.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Doit/P1940.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Doit/P1978.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Doit/P2018.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Doit/P2164.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Doit/RestSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Doit/RestSum_Retry.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Doit/PrefixSum2.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,7 +46,8 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true"
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "D:/study/Algorithm_Baekjoon"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -51,6 +59,14 @@
       <option name="presentableId" value="Default" />
       <updated>1682405207770</updated>
     </task>
+    <task id="LOCAL-00001" summary="구간 합 알고리즘1">
+      <created>1682628369906</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1682628369906</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -63,5 +79,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="구간 합 알고리즘1" />
+    <option name="LAST_COMMIT_MESSAGE" value="구간 합 알고리즘1" />
   </component>
 </project>
